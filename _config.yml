@@ -44,7 +44,7 @@ comments:
 mathjax: true
 
 # Share
-social-share: true
+social-share: false
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
@@ -59,6 +59,7 @@ sns:
   #weibo: '//weibo.com/lovecolcol'
 
   #instagram: '//www.instagram.com/steveliaocn'
+  email: '//thinklsh@outlook.com'
   github: '//github.com/ThinkLSH'
   #biliblili: '//space.bilibili.com/438858235'
 
