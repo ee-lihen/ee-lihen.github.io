@@ -320,6 +320,8 @@ a {
         color: #0057ff; }
       .author-card .sns-links li .icon-vk:hover {
         color: #5181b8; }
+      .author-card .sns-links li .icon-bilibili:hover {
+        color: #FB7299; }
 
 .article-item .post-meta .post-tag, .tags-card .tag, .tags-content .tag {
   display: inline-block;

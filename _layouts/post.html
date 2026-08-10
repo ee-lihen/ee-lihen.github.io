@@ -62,11 +62,7 @@
         {% for s in site.sns %}
         <li>
           <a href="{{ s[1] }}" target="_blank">
-                    {% if s[0] == 'bilibili' %}
-                    <i class="fa-brands fa-bilibili"></i>
-                    {% else %}
                     <i class="iconfont icon-{{ s[0] }}"></i>
-                    {% endif %}
                 </a>
         </li>
         {% endfor %}
