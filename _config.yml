@@ -21,7 +21,7 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2026
 
 # Author 配置博主信息
 author: 'shaoh'
@@ -61,7 +61,7 @@ sns:
   #instagram: '//www.instagram.com/steveliaocn'
   email: '//thinklsh@outlook.com'
   github: '//github.com/ThinkLSH'
-  #biliblili: '//space.bilibili.com/438858235'
+  bilibili: '//space.bilibili.com/438858235'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
